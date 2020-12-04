@@ -1,7 +1,4 @@
-/*!
- * Made by Tuhin Kanti Pal
- * Visit https://tu.hin.life
- */
+
 var parser = document.createElement('a');
 parser.href = new URLSearchParams(location.search);
 
@@ -57,7 +54,3 @@ function share() {
     }
 }
 
-/*!
- * Made by Tuhin Kanti Pal
- * Visit https://tu.hin.life
- */
